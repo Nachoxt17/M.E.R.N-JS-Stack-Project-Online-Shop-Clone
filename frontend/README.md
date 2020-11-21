@@ -1,4 +1,4 @@
-BACK-END PART of the Online Shop Clone Project with Javascript, MongoDB, Mongoose, Express.js, React.js and Node.js.
+FRONT-END PART of the Online Shop Clone Project with Javascript, MongoDB, Mongoose, Express.js, React.js and Node.js.
 
 NPM Modules Used at The Back-End:\_
 -async
@@ -114,5 +114,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-# M.E.R.N-JS-Stack-Project-Online-Shop-Clone
